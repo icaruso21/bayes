@@ -1,0 +1,7 @@
+math
+scipy
+pandas
+numpy
+matplotlib.pyplot
+pystan
+arviz 
